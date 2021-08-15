@@ -39,3 +39,6 @@ House Pricesにsubmit done
 
 ### day13
 パイプラインの構築とCross-Validation done
+
+### day14
+XGBoost、DataLeakageについて　done
